@@ -1,0 +1,18 @@
+:root {
+  --bg-primary: #fff7e6;
+  --bg-secondary: #ffe6b8;
+
+  --pink: #ff7eb6;
+  --yellow: #ffd166;
+  --green: #7bd389;
+  --red: #ff5d73;
+  --brown: #8b5e3c;
+
+  --text-dark: #2f2f2f;
+  --white: #ffffff;
+
+  --shadow:
+    0 4px 12px rgba(0, 0, 0, 0.1);
+
+  --radius: 16px;
+}
